@@ -1,4 +1,7 @@
+# NAMA : IBRAHIM
+# NIM : D0425013
 # Dictionary
+
 mahasiswa = ["kurni", "mamud", "nopal", "ibo", "jona"]
 
 # Menampilkan semua nama
